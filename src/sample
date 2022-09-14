@@ -1,0 +1,33 @@
+const dataSample = {cacheId
+    : 
+    "rHYp-0etoiEJ",
+    displayLink
+    : 
+    "www.tesla.com",
+    formattedUrl
+    : 
+    "https://www.tesla.com/",
+    htmlFormattedUrl
+    : 
+    "https://www.<b>tesla</b>.com/",
+    htmlSnippet
+    : 
+    "<b>Tesla</b> is accelerating the world&#39;s transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and&nbsp;...",
+    htmlTitle
+    : 
+    "<b>Tesla</b>: Electric Cars, Solar &amp; Clean Energy",
+    kind
+    : 
+    "customsearch#result",
+    link
+    : 
+    "https://www.tesla.com/",
+    pagemap
+    : 
+    {cse_thumbnail: Array(1), metatags: Array(1), cse_image: Array(1)},
+    snippet
+    : 
+    "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and ...",
+    title
+    : 
+    "Tesla: Electric Cars, Solar & Clean Energy"}
