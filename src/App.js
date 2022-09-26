@@ -8,9 +8,11 @@ import SearchPage2 from "./SearchPage2";
 import { useEffect } from "react";
 
 function App() {
+
+
   const [isLoading, setIsLoading] = useState(false);
 
-  const apikey = "AIzaSyBHgEnsHIv1qvEcQ0qxYR1MnRNpWKjFqw8";
+  const apikey = "AIzaSyAFWZ3etxB5Ywdds9DJnv_uGbd0J028x2w";
   const contextKey = "250239121eed5434b";
   const [data, setData] = useState(null);
   const [term, setTerm] = useState(null);

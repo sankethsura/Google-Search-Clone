@@ -43,8 +43,11 @@ const Search = (props) => {
         <button
           className="text-white bg-green-600 px-4 py-1 mt-4 rounded-3xl border-2 border-slate-100"
           onClick={() => {
-            nav("/search");
-            console.log(props.term);
+            if(props.term){
+
+              nav("/search");
+              console.log(props.term);
+            }
           }}
         >
           Search
